@@ -34,6 +34,10 @@ https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_After_R
 
 Score by District
 
+https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_After_Replace_9th_grade_School_Score_by_District.PNG
+
+The Jupyter Notebook Coding :
+
 
 
 
