@@ -22,5 +22,11 @@ Top Five School with Thomas High School as 2nd
 
 https://github.com/ttan0408/School_District_Analysis/blob/main/Top_Five_School.PNG
 
+Before remove 9th grade scores, Thomas High School has low performance passing with around 60 plus percentage passing in the spending size of $630-$644 . This may mis leading to the Board which indicates even high speding size but results in lower performance. 
+
+After replacing 9th grade, the Score School Spending for Thomas is  
+
+
+
 
 
