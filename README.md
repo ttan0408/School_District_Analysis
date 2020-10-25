@@ -18,7 +18,7 @@ We have to go back and look at the data again and found out that at 9th grade ap
 
 https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_After_Replace_9th_grade.PNG
 
-##Top Five School with Thomas High School as 2nd
+## Top Five School with Thomas High School as 2nd
 
 https://github.com/ttan0408/School_District_Analysis/blob/main/Top_Five_School.PNG
 
