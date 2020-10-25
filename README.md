@@ -15,3 +15,7 @@ At the begining, the Thomas High School has very low spassing score with the tab
 https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_Before_Replace_9th_grade.PNG
 
 We have to go back and look at the data again and found out that at 9th grade appear to have been altered. We remove the 9th grade data so that it will not affected the over score for Thomas High School. After we re-calculated the new percentage score, Thomas High School become top 5 school performance 
+
+https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_After_Replace_9th_grade.PNG
+
+
