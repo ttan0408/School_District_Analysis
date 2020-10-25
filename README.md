@@ -20,6 +20,7 @@ https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_After_R
 
 Top Five School with Thomas High School as 2nd
 
+https://github.com/ttan0408/School_District_Analysis/blob/main/Top_Five_School.PNG
 
 
 
