@@ -30,6 +30,12 @@ https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_After_R
 
 In additional , score by school size result is :
 
+https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_After_Replace_9th_grade_School_Size.PNG
+
+Score by District
+
+
+
 
 
 
