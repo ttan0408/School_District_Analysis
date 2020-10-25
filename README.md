@@ -38,6 +38,8 @@ https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_After_R
 
 The Jupyter Notebook Coding :
 
+https://github.com/ttan0408/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
+
 
 
 
