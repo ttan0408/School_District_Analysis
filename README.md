@@ -26,6 +26,12 @@ Before remove 9th grade scores, Thomas High School has low performance passing w
 
 After replacing 9th grade, the Score School Spending for Thomas is  
 
+https://github.com/ttan0408/School_District_Analysis/blob/main/Challenge_After_Replace_9th_grade_Spending_Range.PNG
+
+In additional , score by school size result is :
+
+
+
 
 
 
